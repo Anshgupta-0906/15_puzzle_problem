@@ -1,2 +1,2 @@
-from .astar import AStar
-from .breadth_first import BreadthFirst
+from .puzzle import *
+from .algorithms import *
